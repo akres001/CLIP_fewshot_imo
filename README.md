@@ -1,2 +1,2 @@
-# CLIP_fewshot_imo
+Placeholder for the paper:
 CLIP Adaptation by Intra-modal Overlap Correction
